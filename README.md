@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mohammed Hejjam
 
-### An experienced C++ developer
+### A Passionate C++ developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Simoxii48&label=Profile views&color=0e75b6&style=flat" alt="Simoxii48" /> </p>
 
